@@ -7,7 +7,8 @@ def game_hash
       colors: ["Black", "White"],
       players: {}
     },
-    away: team_name: "Charlotte Hornets",
+    away: {
+      team_name: "Charlotte Hornets",
       colors: ["Turquoise", "Purple"],
       players: {}
   }
